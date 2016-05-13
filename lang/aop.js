@@ -1,6 +1,5 @@
 /**
  * @fileOverview aop拦截器
- * @author pengkun 
  * @revision 1.0
  */
 define(function() {

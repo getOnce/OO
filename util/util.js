@@ -1,6 +1,5 @@
 /**
  * @fileOverview util工具
- * @author pk
  * @revision 1.0
  */
 define(function() {

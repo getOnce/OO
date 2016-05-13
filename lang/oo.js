@@ -1,6 +1,5 @@
 /**
  * @fileOverview OO（类创建器）
- * @author pk
  * @revision 1.0
  */
 define(['../util/util', './aop', './oo-static'], function(util, aop, ooStatic) {

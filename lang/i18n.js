@@ -1,6 +1,5 @@
 /**
  * @fileOverview i18n国际化扩展
- * @author pk 
  * @revision 1.0
  */
 define(function() {

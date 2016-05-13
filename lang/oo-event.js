@@ -1,6 +1,5 @@
 /**
  * @fileOverview 为Class增加Event扩展
- * @author pk 
  * @revision 1.0
  */
 define(['./aop'], function(aop) {

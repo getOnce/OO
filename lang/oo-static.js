@@ -1,6 +1,5 @@
 /**
  * @fileOverview oo静态方法和属性的扩展
- * @author pk
  * @revision 1.0
  */
 define(['../util/util'], function(util) {
